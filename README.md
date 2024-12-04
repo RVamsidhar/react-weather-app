@@ -1,6 +1,6 @@
 # CLEAR CAST
 
-<img src="https://raw.githubusercontent.com/RVamsidhar/cineflix-movie-app/main/.github/images/ClearCast.png" />
+<img src="https://raw.githubusercontent.com/RVamsidhar/react-weather-app/main/.github/images/ClearCast.png" />
 
 Search for weather forecast based on location - an online weather platform built with React
 
