@@ -1,10 +1,10 @@
 # CLEAR CAST
 
-<!-- <img src="https://raw.githubusercontent.com/RVamsidhar/cineflix-movie-app/main/.github/images/PopcornFlix.png" width="400" /> <img src="https://raw.githubusercontent.com/RVamsidhar/cineflix-movie-app/main/.github/images/Popup.png" width="400" /> -->
+<img src="https://raw.githubusercontent.com/RVamsidhar/cineflix-movie-app/main/.github/images/ClearCast.png" />
 
 Search for weather forecast based on location - an online weather platform built with React
 
-[Live Demo](https://popcornflix-movies.netlify.app/)
+[Live Demo](https://clear-cast.netlify.app/)
 
 ## Tech Stack
 
